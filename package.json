@@ -1,0 +1,24 @@
+{
+  "name": "elzemtantuni",
+  "version": "1.0.0",
+  "description": "Elzemtantuni QR Menu Page",
+  "main": "index.js",
+  "scripts": {
+    "build": "sass --style=\"compressed\" assets/scss/style.scss assets/css/style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuatogur/elzemtantuni.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuatogur/elzemtantuni/issues"
+  },
+  "homepage": "https://github.com/fuatogur/elzemtantuni#readme",
+  "dependencies": {
+    "sass": "^1.63.6"
+  }
+}
