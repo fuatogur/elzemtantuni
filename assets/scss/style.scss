@@ -187,6 +187,7 @@ table {
             margin-right: 20px;
 
             & .prd-img {
+              object-fit: contain;
               min-width: 125px;
               width: 125px;
               height: 125px;

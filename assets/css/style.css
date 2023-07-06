@@ -167,6 +167,7 @@ table {
   margin-right: 20px;
 }
 .full-page .body-box .products-box .products-flex-box .one-of-box .prd-img-box .prd-img {
+  object-fit: contain;
   min-width: 125px;
   width: 125px;
   height: 125px;
